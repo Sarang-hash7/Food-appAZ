@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+}
+
+#menu, #cart {
+    margin: 2em auto;
+    max-width: 600px;
+}
+
+#menu-items, #cart-items {
+    display: grid;
+    gap: 1em;
+    grid-template-columns: 1fr;
+}
+
+.menu-item, .cart-item {
+    padding: 1em;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button {
+    padding: 0.5em 1em;
+    border: none;
+    background-color: #28a745;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}

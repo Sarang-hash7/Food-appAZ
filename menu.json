@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Cheese Pizza",
+        "description": "Classic cheese pizza with a delicious crust.",
+        "price": 8.99
+    },
+    {
+        "id": 2,
+        "name": "Burger",
+        "description": "Juicy beef burger with lettuce, tomato, and cheese.",
+        "price": 7.99
+    },
+    {
+        "id": 3,
+        "name": "Caesar Salad",
+        "description": "Fresh romaine lettuce with Caesar dressing and croutons.",
+        "price": 5.99
+    }
+]
